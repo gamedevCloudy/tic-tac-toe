@@ -1,8 +1,16 @@
 # tic-tac-toe
- Just wanted to improve at 2D arrays, so this. 
+<div align=center>
+
+![Python](https://img.shields.io/badge/-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+
+Made mainly for the purpose of improving at 2D Arrays. 
+</div>
 
 ---
-### game flow
+
+### Game Flow
+#### This helps create a general guideline for creating methods in order.
+<br>
 
 - player decides thier sign/ID: X/O
 - based on ID, player goes first. 
@@ -12,3 +20,13 @@
 - after 3 moves from either, check if there is a strike formed. x
 - declare winner if yes
 - else repeat moves 
+
+### Future Scope
+- Improved AI 
+    - Counter player Forks
+    - create own forks
+- 2 Player Mode
+- TKinter Front End
+
+---
+PS. I miss ![Unity](https://img.shields.io/badge/-unity-FFFFFF.svg?logo=unity&logoColor=black) 
