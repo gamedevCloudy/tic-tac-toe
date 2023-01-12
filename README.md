@@ -4,6 +4,9 @@
 ![Python](https://img.shields.io/badge/-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 
 Made mainly for the purpose of improving at 2D Arrays. 
+
+![ScreenShot](SS.png)
+
 </div>
 
 ---
