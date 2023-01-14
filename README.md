@@ -36,6 +36,7 @@ Made mainly for the purpose of improving at 2D Arrays.
     - create own forks
 - 2 Player Mode
 - TKinter Front End
+- [exaggeration] - turn this into an engine. 
 
 <br>
  
@@ -43,4 +44,7 @@ Made mainly for the purpose of improving at 2D Arrays.
 ---
 - Please create an issue for Fixes, Improvments and More! 
 ---
+<div align=center> 
+
 PS. I miss ![Unity](https://img.shields.io/badge/-unity-FFFFFF.svg?logo=unity&logoColor=black) 
+</div>
