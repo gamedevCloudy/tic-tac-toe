@@ -5,6 +5,7 @@
 <br>
 
 ![v](https://img.shields.io/badge/version-v.0.1.6-green)
+[![Hits](https://hits.sh/github.com/gamedevCloudy/tic-tac-toe.svg)](https://hits.sh/github.com/gamedevCloudy/tic-tac-toe)
 
 Made mainly for the purpose of improving at 2D Arrays. 
 
