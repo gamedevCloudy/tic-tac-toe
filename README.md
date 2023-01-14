@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 <br>
 
-![v](https://img.shields.io/badge/version-v.0.1.10-green)
+![v](https://img.shields.io/badge/version-v.0.1.6-green)
 
 Made mainly for the purpose of improving at 2D Arrays. 
 
@@ -13,21 +13,6 @@ Made mainly for the purpose of improving at 2D Arrays.
 </div>
 
 ---
-
-### Game Flow
-#### This helps create a general guideline for creating methods in order.
-<br>
-
-- player decides thier sign/ID: X/O
-- based on ID, player goes first. 
-- player passes the position based on Indexes, 0 1 : centre grid
-- update and print the board
-- cpuMove then repeat previous step
-- after 3 moves from either, check if there is a strike formed. x
-- declare winner if yes
-- else repeat moves 
-
-<br>
 
 ### Future Scope
 ---
