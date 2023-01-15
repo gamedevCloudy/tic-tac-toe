@@ -13,7 +13,6 @@ def cpuMove(cpuID,board):
     row2,col2 = strategy2(board,pidx)
     
     if row>=0: 
-        
         print("Strategy: 1")
         for i in range(0,len(board)-1):
             if board[row][i]=='': 
@@ -24,6 +23,7 @@ def cpuMove(cpuID,board):
         print("Strategy 2: ", row2, col2 )
         board[row2][col2]=(cpuID)
         return board
+
     else: 
         print("Random Move")
         row2=r.randint(0,2)
@@ -40,15 +40,15 @@ def strategy1(board,pidx):
     count=0
 
     for i in board: 
+        print("Before: ", i)
         for j in i:
             if j==pidx:
-                print(i,j)
                 count+=1
-        if count>=2: 
-            print(i,j)
+        if count>=2 and '' in i: 
+            print("After: ",i)
             return board.index(i)
+        print("Count: ", count)
         count=0
-    print(-1)
     return -1
 
 def strategy2(board,pidx):
