@@ -7,6 +7,8 @@ def decideID(playerID,cpuID):
     elif playerID=="O": cpuID+="X"
     else: 
         print("wrong choice...")
+        playerID=''
+        cpuID=''
         decideID(playerID,cpuID)
-    playerid,cpuid=(playerID,cpuID)
+    # playerid,cpuid=(playerID,cpuID)
     return (playerID,cpuID)
